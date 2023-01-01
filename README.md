@@ -27,4 +27,4 @@
 
 4.  ** You need to automate tasks utilising IaaC tools of your choice (For e.g. Terraform).
 
-![tfstatelist](https://github.com/ivnovyuriy/task-azure-41/blob/c52d8c87dbfddf00a2250e5e26ea4f15f57cc508/img/tfstatelist.png)
+![tfstatelist](https://github.com/ivnovyuriy/task-azure-41/blob/6527b338eff1d011290a91235f05b02a5bbd6eb6/img/tfstatelist.png)
